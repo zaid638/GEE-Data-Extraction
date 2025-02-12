@@ -11,10 +11,10 @@ The objective of this project is to extract satellite imagery data for a Pakista
 ## Tools and Technologies Used
 <br />
 
-1. Google Earth Engine (GEE): For accessing and processing satellite imagery data.
-2. Python: To write scripts for interacting with GEE and PostgreSQL. And visualize the data.
-3. PostgreSQL: To store the extracted data.
-4. Libraries:
+1. **Google Earth Engine (GEE):** For accessing and processing satellite imagery data.
+2. **Python:** To write scripts for interacting with GEE and PostgreSQL. And visualize the data.
+3. **PostgreSQL:** To store the extracted data.
+4. **Libraries:**
    - earthengine-api
    - psycopg2
    - pandas
