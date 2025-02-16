@@ -5,7 +5,7 @@ The objective of this project is to extract satellite imagery data for a Pakista
 <br /><br /><br />
 
 
-![ETL Diagram](https://github.com/zaid638/GEE-Data-Extraction/blob/main/GEE%20ETL%20Diagram.png)
+<!-- ![ETL Diagram](https://github.com/zaid638/GEE-Data-Extraction/blob/main/GEE%20ETL%20Diagram.png) -->
 <br /><br /><br />
 
 ## Tools and Technologies Used
