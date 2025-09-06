@@ -80,8 +80,5 @@ Created ETL data pipeline to extract satellite imagery data for **Pakistan** ove
    
 ## Future Work<br /><br />
 
-1. Automate the Pipeline using Apache Airflow and Collect data for every 
-month. 
-2. Implement machine learning models for predictive analysis.
-
----
+1. Automate the Pipeline using Apache Airflow and Collect data for every month. 
+2. Implement machine learning models for predictive analysis.<br /><br />
