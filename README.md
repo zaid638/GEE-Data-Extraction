@@ -55,6 +55,10 @@ Created ETL data pipeline to extract satellite imagery data for **Pakistan** ove
 1. Created a Webapp Using Streamlit. 
 2. Visualize the data using filters.<br /><br /><br />
 
+![App Diagram](https://github.com/zaid638/GEE-Data-Extraction/blob/main/collage1.png) <br /><br />
+
+![Map Diagram](https://github.com/zaid638/GEE-Data-Extraction/blob/main/collage2.png) <br /><br /><br />
+
 ## Results <br /><br />
 
 1.	NDVI values and Dates were successfully extracted for all Provinces of Pakistan in 2024.
